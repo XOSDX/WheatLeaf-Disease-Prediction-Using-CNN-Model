@@ -1,9 +1,3 @@
-**AI-for-Wheat-Disease**
-
-During my time at the University, I built a Deep Learning model that can predict whether many wheat leaves, which is diseased and 
-which is not with acceptable scores and assist the user, majorly the farmers to distinguish between the healthy and diseased wheat plants.
-
-
 ## 🚀 Introduction
 This repository contains an implementation of a Deep Convolutional Neural Network (CNN) designed to detect wheat leaf diseases. By providing farmers with accurate and timely information about plant health, this tool aims to enhance agricultural productivity and sustainability.
 
@@ -89,9 +83,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 **📫 Contact
 For inquiries or feedback, please reach out:
--> ommsubrato.dey@gmail.com**
-
-**Name: Om Subrato Dey
-Email: your.email@example.com
+Name: Om Subrato Dey
+Email: ommsubrato.dey@gmail.com
 GitHub: XOSDX
 Thank you for your interest in this project! Happy coding! 🚀**
